@@ -10,7 +10,7 @@ It comes with two additional files containing utility aliases.
 
 3. Your console should display the GUI and a sound should be played in-game; otherwise you must have a path issue and the file did not load correctly.
 
-# USAGE
+# Usage
 - A self explanatory documentation will be displayed into the GUI in your console under this format :
 VARS (STATUS) | ToggleCmd / ToggleOnCmd / ToggleOffCmd
 
