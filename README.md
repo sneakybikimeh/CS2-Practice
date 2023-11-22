@@ -21,5 +21,5 @@ VARS (STATUS) | ToggleCmd / ToggleOnCmd / ToggleOffCmd
 - Type give_[nameofitem] to get it dropped instantly. (alias_stuff.cfg)
 - Type [nameofmap] to change map instantly. (alias_maps.cfg)
 
-- Everytime you change map, you will need to "exec practice.cfg" since the server convars get resetted.
+- Everytime you change map, you will need to "exec practice.cfg" since the server convars are overwritten.
 - The GUI will not keep in memory any var that is changed manually in the console.
