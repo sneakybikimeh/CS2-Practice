@@ -3,7 +3,7 @@ This practice.cfg file lets you setup a practice server very simple to tweak thr
 It comes with two additional files containing utility aliases.
 
 # Installation
-1. Open the archive and extract its content into the following path folder : \n
+1. Open the archive and extract its content into the following path folder : 
 ...\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg\
 
 3. Launch the game, boot up a practice server where you can turn on sv_cheats 1 and type in the console the following command: "exec practice.cfg".
